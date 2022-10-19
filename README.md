@@ -1,12 +1,11 @@
-# AMIC(Automatic check-in)
+# Fristnowk(Clockin)
 
 > 基于Vue开发的网易云打卡刷歌项目
 
 
-### 2020/06/19
  已将接口改为http://localhost:3000
  请在本地运行https://github.com/Binaryify/NeteaseCloudMusicApi
- 因为服务器太拉垮了，带不动API
+
 ## Build Setup
 
 ``` bash
