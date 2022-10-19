@@ -1,8 +1,8 @@
 {
-  "name": "amci",
+  "name": "clockin",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "CitronsBlog <909229731@qq.com>",
+  "author": "Fristnowk <1310819784@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

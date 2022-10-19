@@ -20,6 +20,9 @@ html{
 }
 body{
     height: 100%;
-    background-color: rgba(234, 134, 133,0.7);
+    width: 100%;
+    background-color: rgba(133, 197, 234, 0.7);
+    background-image:url(./assets/Trees-23.jpg);
+    
 }
 </style>
