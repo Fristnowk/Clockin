@@ -49,7 +49,7 @@
           <div class="wapper-panl">
             <el-card class="panl" shadow="always">
               当前登陆用户信息&nbsp;|&nbsp;
-              <el-button type="text" @click="dialogVisible = true">About AMCI</el-button>
+              <el-button type="text" @click="dialogVisible = true">About Clickin</el-button>
             </el-card>
             <div class="user-info">
               userId：{{ this.userId }}
@@ -98,7 +98,7 @@
     </section>
 
     <!-- PC端关于弹窗 -->
-    <el-dialog title="About AMIC" :visible.sync="dialogVisible" width="50%" :before-close="handleClose">
+    <el-dialog title="About Clickin" :visible.sync="dialogVisible" width="50%" :before-close="handleClose">
       <span>Q:我的账号安全吗？</span>
       <br />
       <span>A:密码储存在你的本地，非常安全</span>
@@ -123,7 +123,7 @@
       </span>
     </el-dialog>
     <!-- 移动端关于弹窗 -->
-    <el-dialog title="About AMIC" :visible.sync="dialogVisible3" width="90%" :before-close="handleClose">
+    <el-dialog title="About Clickin" :visible.sync="dialogVisible3" width="90%" :before-close="handleClose">
       <span>Q:我的账号安全吗？</span>
       <br />
       <span>A:密码储存在你的本地，非常安全</span>
@@ -1019,7 +1019,7 @@ export default {
   background: #fff;
   border: 1px solid #dcdfe6;
   color: #606266;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   text-align: center;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
