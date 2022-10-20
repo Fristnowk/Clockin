@@ -2,9 +2,7 @@
 
 > 基于Vue开发的网易云打卡刷歌项目
 
-
- 已将接口改为http://localhost:3000
- 请在本地运行https://github.com/Binaryify/NeteaseCloudMusicApi
+ 请先在本地运行https://github.com/Binaryify/NeteaseCloudMusicApi
 
 ## Build Setup
 
